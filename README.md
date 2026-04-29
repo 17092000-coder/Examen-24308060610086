@@ -1,11 +1,14 @@
-![Texto alternativo](ruta/a/la/imagen.png)
+![CI](static/CI.png)
+Error de credenciales incorrectas 
 
-![Texto alternativo](ruta/a/la/imagen.png)
+![perfil](static/Perfil.png)
+Menu de perfil y cerrar sesion 
 
-![Texto alternativo](ruta/a/la/imagen.png)
+![cnc](static/CNC.png)
+Las contraseñas no coinciden 
 
-![Texto alternativo](ruta/a/la/imagen.png)
 
-![Texto alternativo](ruta/a/la/imagen.png)
+![ur](static/UR.png)
+usuario registrado
 
-![Texto alternativo](ruta/a/la/imagen.png)
+
