@@ -1,1 +1,11 @@
-# Examen-24308060610086
+![Texto alternativo](ruta/a/la/imagen.png)
+
+![Texto alternativo](ruta/a/la/imagen.png)
+
+![Texto alternativo](ruta/a/la/imagen.png)
+
+![Texto alternativo](ruta/a/la/imagen.png)
+
+![Texto alternativo](ruta/a/la/imagen.png)
+
+![Texto alternativo](ruta/a/la/imagen.png)
